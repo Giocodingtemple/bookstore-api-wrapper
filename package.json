@@ -1,0 +1,15 @@
+{
+  "name": "ebookstorewrapper",
+  "version": "1.0.0",
+  "description": "bookstore hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gio marchiori",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.1.5",
+    "base-64": "^1.0.0"
+  }
+}
